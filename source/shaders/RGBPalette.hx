@@ -36,9 +36,9 @@ class RGBPalette {
 
 	public function new()
 	{
-		r = 0xFFFF0000;
-		g = 0xFF00FF00;
-		b = 0xFF0000FF;
+		r = 0xFF7e7e81;
+		g = 0xFFeeeb48;
+		b = 0xFF3e3e40;
 		mult = 1.0;
 	}
 }
